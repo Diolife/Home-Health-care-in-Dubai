@@ -1,5 +1,3 @@
-# Home-Health-care-in-Dubai
-
 # Home Health Care in Dubai
 
 Welcome to the official repository on **Home Health Care in Dubai**! This repository provides information and resources about home health care services in Dubai, with a special focus on **DioLife Health**.
@@ -10,12 +8,12 @@ Visit [DioLife Health's website](https://diolifehealth.ae/) for more information
 
 ## Services Offered by DioLife Health
 
-- **Nursing Care**
-- **Physiotherapy**
-- **Doctor Visits at Home**
-- **Palliative Care**
-- **Elderly Care**
-- **Mother and Baby Care**
+- [**Nursing Care**](https://diolifehealth.ae/nursing-care)
+- [**Physiotherapy**](https://diolifehealth.ae/physiotherapy)
+- [**Doctor Visits at Home**](https://diolifehealth.ae/doctor-visits-at-home)
+- [**Palliative Care**](https://diolifehealth.ae/palliative-care)
+- [**Elderly Care**](https://diolifehealth.ae/elderly-care)
+- [**Mother and Baby Care**](https://diolifehealth.ae/mother-and-baby-care)
 
 ## Why Home Health Care?
 
